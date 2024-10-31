@@ -16,6 +16,21 @@
 - **HTML/CSS** for rendering interactive posts
 - **JavaScript** for dynamic UI interactions
 
+- 
+- # News Post Generator Landing Page
+
+![Tech News Post Generator](readme/img2.png)
+
+- # Web scraping from News Website
+
+![Tech News Post Generator](readme/img1.png)
+
+- # Download Interactive Post
+
+![Tech News Post Generator](readme/img3.png)
+
+
+
 ### 🚀 Getting Started
 
 1. Clone the repository:
